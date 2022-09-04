@@ -1,0 +1,31 @@
+@import "../variable.scss";
+
+.base {
+  background-color: #f7f9fc;
+}
+
+.item-base {
+  margin: 1rem;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+
+.poke-details {
+  margin: 1.2rem;
+}
+
+.details-card {
+  box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+  margin-block: 3rem;
+  border-radius: 20px;
+}
+
+.poke-image {
+  height: 20rem;
+}
+
+.poke-details-item {
+  border: 1px solid;
+  border-radius: 20px;
+  padding: 0.5rem;
+}
